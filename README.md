@@ -4,8 +4,13 @@
 
 ## Пример использования
 ![res](image-1.png)
-![res1](image-1.png)
-![res2](image-1.png)
+![res1](image-2.png)
+![res2](image-3.png)
+![res3](image-4.png)
+![res4](image-5.png)
+![res5](image-6.png)
+![res6](image-7.png)
+
 
 
 ## Функциональность приложения
